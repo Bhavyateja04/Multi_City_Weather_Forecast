@@ -88,7 +88,7 @@ Temperature chart
 
 The selected preference is persisted using Local Storage.
 
-📅 7-Day Forecast
+📅 7-Day Forecast completely for the week
 
 Each city card displays a 7-day weather forecast containing:
 
