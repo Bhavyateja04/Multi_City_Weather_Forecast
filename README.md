@@ -201,7 +201,7 @@ npm --version
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Bhavyateja04/Multi_City_Weather_Forecast
 
 Navigate to the project:
 
