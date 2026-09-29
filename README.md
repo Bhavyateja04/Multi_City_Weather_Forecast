@@ -20,7 +20,7 @@ The application integrates with the WeatherAPI.com API to display real-time weat
 - 💾 Persistent cities using Browser Local Storage
 - ⏳ Skeleton loading states while fetching weather data
 - ❌ User-friendly error handling
-- 📱 Responsive design for desktop, tablet, and mobile
+- 📱 Responsive design for desktop, tablet, and mobile and every device
 - 🔄 Weather data refresh support
 
 ---
